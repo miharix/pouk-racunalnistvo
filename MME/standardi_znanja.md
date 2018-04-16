@@ -7,7 +7,7 @@ _vir: http://www.mizs.gov.si/fileadmin/mizs.gov.si/pageuploads/podrocje/os/devet
 
 * z urejevalnikom besedil dopolniti besedilo in ga urediti
 * urediti sliko v besedilu
-* poslati sporočilo po elektronski po[ti
+* poslati sporočilo po elektronski pošti
 * opisati področja, kjer so uporabljali računalnik
 * odgovoriti na prejeto sporočilo
 * našteti različne medije za predstavitev informacije
